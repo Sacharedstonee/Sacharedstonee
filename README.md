@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sacharedstonee
-- 👀 I’m interested in Spjgot, Plugin, Bungeecord, Bukkit ...
+- 👀 I’m interested in Spigot, Plugin, Bungeecord, Bukkit ...
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on MinecraftServer
 - 📫 How to reach me. At Discord!
