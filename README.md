@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sacharedstonee
-- 👀 I’m interested in Spigot, Plugin, Bungeecord, Bukkit ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on MinecraftServer
+- 👀 I’m interested in Fortnite private server
+- 🌱 I’m currently learning JavaScript (Node.Js -» Express, Crypto. Mongoose, electron)
 - 📫 How to reach me. At Discord!
 
 <!---
